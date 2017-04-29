@@ -1,0 +1,28 @@
+{
+  "name": "iwc-examples",
+  "version": "1.0.0",
+  "description": "Inter Windows Communication examples",
+  "scripts": {},
+  "keywords": [
+    "window",
+    "localStorage",
+    "postMessage",
+    "crossDomain",
+    "sharedWorkers",
+    "iframe"
+  ],
+  "license": "MIT",
+  "main": "out/index.js",
+  "_": [],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mudalov/iwc-examples.git"
+  },
+  "author": "Mikhail Udalov",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-tsb": "^2.0.3",
+    "typescript": "^2.3.2"
+  }
+}
