@@ -1,5 +1,5 @@
 
 
 class TestClass {
-    private x = 10;
+    private x = 0;
 }
