@@ -3,6 +3,9 @@ logs
 *.log
 npm-debug.log*
 
+# VS Code
+.vscode
+
 # Runtime data
 pids
 *.pid
@@ -17,7 +20,7 @@ coverage
 # nyc test coverage
 .nyc_output
 
-# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+# Grunt
 .grunt
 
 # node-waf configuration
